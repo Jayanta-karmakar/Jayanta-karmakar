@@ -8,7 +8,7 @@
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- 🎉 My Professional certificates  Updating Soon
+- 🎉 My Professional certificates : Updating Soon
 - 📫 How to reach me on LinkedIn : [Jayanta Karmakar](https://www.linkedin.com/in/jayanta-karmakar-496641140/)
 
 <a href="https://www.buymeacoffee.com/jayantakarmakar998" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
