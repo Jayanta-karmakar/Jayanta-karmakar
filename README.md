@@ -5,7 +5,6 @@
 
 <h4 align="center">Java Developer with a vast area of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages with Solid Computer Application(CA) fundamentals. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Java Developer</h4>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007) -->
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
