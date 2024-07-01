@@ -62,3 +62,14 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanta-karmakar&theme=dark" width="48%" >
 <br>
 <p align="center"> <a href="https://github.com/Jayanta-Karmakar"><img src="https://github-profile-trophy.vercel.app/?username=Jayanta-Karmakar&row=2&column=3&margin-w=15&margin-h=15&theme=gruvbox" alt="jayanta-karmakar" /></a> </p>
+
+
+
+<div align="center">
+<a href="https://github.com/Jayanta-karmakar">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayanta-karmakar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayanta-karmakar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayanta-karmakar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jayanta-karmakar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayanta-karmakar&theme=2077" height="180em" />
+</div>
