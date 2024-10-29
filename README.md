@@ -69,7 +69,14 @@
 <a href="https://github.com/Jayanta-karmakar">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayanta-karmakar&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayanta-karmakar&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayanta-karmakar&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jayanta-karmakar&theme=2077" height="180em" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayanta-karmakar&theme=2077" height="180em" /> -->
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jayanta-karmakar&theme=2077" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayanta-karmakar&theme=2077" height="180em" />
 </div>
+
+<br/>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+!+;+Let's+connect;I'm+always+down+to+collab+:)" alt="Typing SVG">
+  </a>
+</h3>
