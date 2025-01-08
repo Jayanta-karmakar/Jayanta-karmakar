@@ -9,7 +9,8 @@
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
 - 🔭 I’m currently working at [Qbent Technologies Pvt Ltd](https://qbent.in/)
-- 🌱 I’m currently learning **Java & Spring**
+- 🌱 I’m currently learning **Python & AI/ML**
+- 🌱 I have expertise in **Java & Spring**
 
 
 <h3 align="left">Connect with me :</h3>
