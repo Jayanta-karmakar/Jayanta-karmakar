@@ -10,7 +10,7 @@
 <br>
 - 🔭 I’m currently working at [Qbent Technologies Pvt Ltd](https://qbent.in/)
 - 🌱 I’m currently learning **Python & AI/ML**
-- 🌱 I have expertise in **Java & Spring**
+- ✊ I have expertise in **Java & Spring**
 
 
 <h3 align="left">Connect with me :</h3>
