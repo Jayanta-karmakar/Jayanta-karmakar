@@ -1,4 +1,6 @@
-
+<!-- <div align="center">
+  <img width="60%" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+</div> -->
 <h1 align="center">Hi 🙂, I'm Jayanta Karmakar</h1>
 <!-- <p align="center"><img width = "15%" align="center" src="https://komarev.com/ghpvc/?username=Jayanta-karmakar"></p> -->
 <p align="center">
@@ -16,7 +18,7 @@
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
 - 🔭 **Currently working at** [Qbent Technologies Pvt Ltd](https://qbent.in/)
-- 🌱 **Currently learning:** Python & AI/ML
+- 🌱 **Currently learning:** AWS & AI/ML
 - ✊ **Expertise in:** Java & Spring
 
 
