@@ -17,9 +17,8 @@
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- 🔭 **Currently working at** [Qbent Technologies Pvt Ltd](https://qbent.in/)
-- 🌱 **Currently learning:** AWS & AI/ML
-- ✊ **Expertise in:** Java & Spring
+- 🌱 **Currently Mastering:** AWS
+- ✊ **Expertise in:** Backend (Python & AI/ML & Java & Spring)
 
 
 <h3 align="left">Connect with me :</h3>
