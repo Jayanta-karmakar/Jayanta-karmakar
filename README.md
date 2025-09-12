@@ -69,8 +69,8 @@
  ## 🏆 Github Status
 <img  src="https://github-readme-stats.vercel.app/api?username=Jayanta-karmakar&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanta-karmakar&theme=dark" width="48%" >
-<br>
-<p align="center"> <a href="https://github.com/Jayanta-Karmakar"><img src="https://github-profile-trophy.vercel.app/?username=Jayanta-Karmakar&row=2&column=3&margin-w=15&margin-h=15&theme=gruvbox" alt="jayanta-karmakar" /></a> </p>
+<!-- <br>
+<p align="center"> <a href="https://github.com/Jayanta-Karmakar"><img src="https://github-profile-trophy.vercel.app/?username=Jayanta-Karmakar&row=2&column=3&margin-w=15&margin-h=15&theme=gruvbox" alt="jayanta-karmakar" /></a> </p> -->
 
 
 
